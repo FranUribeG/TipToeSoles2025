@@ -53,6 +53,10 @@
     .col-4, .col-3 {
         grid-column: span 1;
     }
+   .col-5 {
+    width: 100%;
+   }
+   
     .footer-container {
         justify-content: center;
     }
